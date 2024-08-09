@@ -1,0 +1,18 @@
+Reejan Pokharel-Assignment 1
+1.Pandas
+Pandas is a powerful data manipulation and analysis library. It provides data structures like DataFrames and Series for handling structured data and performing operations like filtering, grouping, merging, and aggregating.
+
+2.NumPy
+NumPy is a fundamental library for numerical computing in Python. It provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays.
+
+3. TensorFlow
+TensorFlow is an open-source deep learning framework developed by Google. It is used for building and training machine learning models, particularly deep neural networks.
+
+4.Keras
+Keras is a high-level neural networks API, written in Python, that can run on top of TensorFlow, Theano, or CNTK. It is designed for fast experimentation with deep learning models.
+
+5.sklearn
+Scikit-learn is a machine learning library that provides simple and efficient tools for data mining and data analysis. It is built on NumPy, SciPy, and Matplotlib.
+
+6.PyTorch
+PyTorch is an open-source deep learning framework developed by Facebook's AI Research lab. It provides a flexible and dynamic computation graph, making it popular for research and development in machine learning.
